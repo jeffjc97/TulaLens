@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jeffreychang/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/Users/jeffreychang/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.2-3cc82c7f85645fcd7698d22c7dd8def15529dbf7.jar" />
+    </item>
+    <item
+        jar="/Users/jeffreychang/Dropbox/TuloLens/Parse-Starter-Project-1.8.2/ParseStarterProject/libs/Parse-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c2cb0bfe37cbefd855b6faa3c9a5be833aba7300">
+        <dex dex="/Users/jeffreychang/Dropbox/TuloLens/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.8.2-d613a43ed44cecf585578d45bdbe280011bfaebc.jar" />
+    </item>
+    <item
+        jar="/Users/jeffreychang/Dropbox/TuloLens/Parse-Starter-Project-1.8.2/ParseStarterProject/libs/ParseCrashReporting-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ccf9e90414e7bb2cf09f4d7c77c42f70c690e118">
+        <dex dex="/Users/jeffreychang/Dropbox/TuloLens/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-0bf5f96df03ac9fd5c0efcf2a41a69a9a06e9b83.jar" />
+    </item>
+    <item
+        jar="/Users/jeffreychang/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/libs/ParseCrashReporting-1.8.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ccf9e90414e7bb2cf09f4d7c77c42f70c690e118">
+        <dex dex="/Users/jeffreychang/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.2-ad74a52d0d22201edd0ff46b1be9642a45211c57.jar" />
+    </item>
+    <item
+        jar="/Users/jeffreychang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/jeffreychang/Downloads/Parse-Starter-Project-1.8.2/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-400d7ca15f28150ec6c516953958ddace1339d5f.jar" />
+    </item>
+
+</items>
