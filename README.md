@@ -9,3 +9,5 @@ This application is used for the creation and taking of surveys from the mobile 
 
 Credited on TulaLens' website:
 http://www.tulalens.org/team/
+
+See Screenshots and Functionality here: http://imgur.com/a/qbxN0
