@@ -1,6 +1,6 @@
 # TulaLens
 
-This code contains the Android mobile application for TulaLens, created during IDHack 2014. It was a finalist for the top project at the hackathon.
+This code contains the Android mobile application for TulaLens, created during IDHack 2014 with Leo Hentschker. It was a finalist for the top project at the hackathon.
 
 Volunteers of TulaLens, while gathering information about mothers in rural parts of India through surveys, often have a difficult time relaying their results back to headquarters, as these areas do not have internet connection. 
 Previously, workers would manually bring their results to headquarters, but this application allows for them to do it electronically, making their jobs easier.
